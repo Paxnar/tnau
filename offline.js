@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1652471213,
+	"version": 1652541996,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -38,6 +38,7 @@
 		"camnames.png",
 		"truccus-sheet0.png",
 		"truccus-sheet1.png",
+		"truccus-sheet2.png",
 		"truccusoffice-sheet0.png",
 		"jumpscares-sheet0.png",
 		"camera button click.ogg",
